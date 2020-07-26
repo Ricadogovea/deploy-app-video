@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Ricadogovea/deploy-app-video.git/static/css/main.5f361e03.chunk.css",
+    "main.js": "/Ricadogovea/deploy-app-video.git/static/js/main.9e926bf2.chunk.js",
+    "main.js.map": "/Ricadogovea/deploy-app-video.git/static/js/main.9e926bf2.chunk.js.map",
+    "runtime-main.js": "/Ricadogovea/deploy-app-video.git/static/js/runtime-main.418f3233.js",
+    "runtime-main.js.map": "/Ricadogovea/deploy-app-video.git/static/js/runtime-main.418f3233.js.map",
+    "static/js/2.763b34e5.chunk.js": "/Ricadogovea/deploy-app-video.git/static/js/2.763b34e5.chunk.js",
+    "static/js/2.763b34e5.chunk.js.map": "/Ricadogovea/deploy-app-video.git/static/js/2.763b34e5.chunk.js.map",
+    "index.html": "/Ricadogovea/deploy-app-video.git/index.html",
+    "precache-manifest.bff0ee0338331addbdbed437046d5251.js": "/Ricadogovea/deploy-app-video.git/precache-manifest.bff0ee0338331addbdbed437046d5251.js",
+    "service-worker.js": "/Ricadogovea/deploy-app-video.git/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/Ricadogovea/deploy-app-video.git/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.763b34e5.chunk.js.LICENSE.txt": "/Ricadogovea/deploy-app-video.git/static/js/2.763b34e5.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Ricadogovea/deploy-app-video.git/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.418f3233.js",
+    "static/js/2.763b34e5.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.9e926bf2.chunk.js"
+  ]
+}
